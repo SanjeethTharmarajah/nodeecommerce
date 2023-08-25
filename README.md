@@ -69,3 +69,6 @@ npm install dotenv@8.2.0
 
 
 Click the link below to view video for scripts action
+
+https://drive.google.com/file/d/1j67C61t-7e1MZT-bnDc7v3Qsy_zovVsN/view
+
