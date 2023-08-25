@@ -65,4 +65,7 @@ npm install dotenv@8.2.0
 
 ### Usage
 
+![image](https://github.com/SanjeethTharmarajah/nodeecommerce/assets/130941252/eb134f9e-6fb7-4d24-8541-f6854dd1a0c5)
+
+
 Click the link below to view video for scripts action
